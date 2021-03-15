@@ -1,0 +1,12 @@
+{
+  "name": "TrainingProject",
+  "displayName": "TrainingProject",
+  "expo": {
+    "name": "TrainingProject",
+    "slug": "TrainingProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
